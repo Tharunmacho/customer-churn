@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777419553088",
+    "project_id": "stayzydatas",
+    "storage_bucket": "stayzydatas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777419553088:android:3cffad964bbad5eec662a5",
+        "android_client_info": {
+          "package_name": "com.example.stayzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPF0ZMulkjhhG8mQnxrhDzFmqJ1LNPaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
